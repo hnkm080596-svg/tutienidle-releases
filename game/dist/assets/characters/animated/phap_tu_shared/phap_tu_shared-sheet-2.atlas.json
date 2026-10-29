@@ -1,0 +1,355 @@
+{
+  "frames": {
+    "phap_tu_shared-attack-001.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-002.png": {
+      "frame": {
+        "x": 732,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-003.png": {
+      "frame": {
+        "x": 1464,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-004.png": {
+      "frame": {
+        "x": 2196,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-005.png": {
+      "frame": {
+        "x": 2928,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-006.png": {
+      "frame": {
+        "x": 0,
+        "y": 756,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-007.png": {
+      "frame": {
+        "x": 732,
+        "y": 756,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-008.png": {
+      "frame": {
+        "x": 1464,
+        "y": 756,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-009.png": {
+      "frame": {
+        "x": 2196,
+        "y": 756,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-010.png": {
+      "frame": {
+        "x": 2928,
+        "y": 756,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-011.png": {
+      "frame": {
+        "x": 0,
+        "y": 1512,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-012.png": {
+      "frame": {
+        "x": 732,
+        "y": 1512,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-013.png": {
+      "frame": {
+        "x": 1464,
+        "y": 1512,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-014.png": {
+      "frame": {
+        "x": 2196,
+        "y": 1512,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-015.png": {
+      "frame": {
+        "x": 2928,
+        "y": 1512,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-016.png": {
+      "frame": {
+        "x": 0,
+        "y": 2268,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    },
+    "phap_tu_shared-attack-017.png": {
+      "frame": {
+        "x": 732,
+        "y": 2268,
+        "w": 732,
+        "h": 756
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 732,
+        "h": 756
+      },
+      "sourceSize": {
+        "w": 732,
+        "h": 756
+      }
+    }
+  },
+  "meta": {
+    "app": "index-phap-tu-shared-art.mjs",
+    "version": "1.0",
+    "image": "phap_tu_shared-sheet-2.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 3660,
+      "h": 3024
+    },
+    "scale": "1"
+  }
+}

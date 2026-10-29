@@ -1,0 +1,10 @@
+{
+  "productName": "Tien Hiep Idle",
+  "appVersion": "0.0.0-beta.20",
+  "buildId": "dev",
+  "gitSha": "6b4181a0e5cd6cfd832351fde082dc17ae522dcd",
+  "saveSchemaVersion": 95,
+  "backendEnvironment": "development",
+  "releaseChannel": "development",
+  "builtAtUtc": "2026-10-29T04:03:55.099Z"
+}

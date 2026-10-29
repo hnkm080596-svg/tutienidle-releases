@@ -1,0 +1,1 @@
+var e={combatPause:900,panel:1800,announcement:1850,decomposeFx:1860,bodyPour:1861,toast:1870,modal:1900,breakthroughFx:1940,authority:1950,tooltip:2200,appError:3e3,saveGate:4e3,saveGateModal:4100,updateBanner:4200,devHint:4500,curtain:5e3};export{e as t};

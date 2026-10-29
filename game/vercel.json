@@ -1,0 +1,70 @@
+﻿{
+    "$schema":  "https://openapi.vercel.sh/vercel.json",
+    "buildCommand":  "npm run build",
+    "outputDirectory":  "dist",
+    "build":  {
+                  "env":  {
+                              "VITE_BACKEND_MODE":  "supabase",
+                              "VITE_SUPABASE_URL":  "https://ohndbcpnevljwytstbxq.supabase.co",
+                              "VITE_SUPABASE_ANON_KEY":  "sb_publishable_MVcy3nW2SIYkT_QirG96Gw_8SY1Zjte",
+                              "VITE_SUPABASE_PUBLISHABLE_KEY":  "sb_publishable_MVcy3nW2SIYkT_QirG96Gw_8SY1Zjte",
+                              "VITE_ALLOW_SELF_SIGNUP":  "true"
+                          }
+              },
+    "headers":  [
+                    {
+                        "source":  "/(.*)",
+                        "headers":  [
+                                        {
+                                            "key":  "X-Content-Type-Options",
+                                            "value":  "nosniff"
+                                        },
+                                        {
+                                            "key":  "X-Frame-Options",
+                                            "value":  "DENY"
+                                        },
+                                        {
+                                            "key":  "Referrer-Policy",
+                                            "value":  "strict-origin-when-cross-origin"
+                                        },
+                                        {
+                                            "key":  "Permissions-Policy",
+                                            "value":  "camera=(), microphone=(), geolocation=()"
+                                        }
+                                    ]
+                    },
+                    {
+                        "source":  "/assets/(.*\\.(?:js|css))",
+                        "headers":  [
+                                        {
+                                            "key":  "Cache-Control",
+                                            "value":  "public, max-age=31536000, immutable"
+                                        }
+                                    ]
+                    },
+                    {
+                        "source":  "/assets/(.*\\.(?:png|jpg|jpeg|webp|gif|svg|ico|wav|mp3|ogg|m4a|flac|aac|woff|woff2|ttf|otf|json))",
+                        "headers":  [
+                                        {
+                                            "key":  "Cache-Control",
+                                            "value":  "public, max-age=604800, stale-while-revalidate=86400"
+                                        }
+                                    ]
+                    },
+                    {
+                        "source":  "/(index\\.html|build-identity\\.json)",
+                        "headers":  [
+                                        {
+                                            "key":  "Cache-Control",
+                                            "value":  "public, max-age=0, must-revalidate"
+                                        }
+                                    ]
+                    }
+                ],
+    "rewrites":  [
+                     {
+                         "source":  "/((?!assets/|build-identity\\.json|favicon\\.ico).*)",
+                         "destination":  "/index.html"
+                     }
+                 ]
+}

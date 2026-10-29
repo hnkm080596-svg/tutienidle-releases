@@ -1,0 +1,90 @@
+{
+  "generator": "imagegen",
+  "version": 1,
+  "assets": [
+    {
+      "id": "lodge-backdrop",
+      "path": "game/public/assets/companion-work/v1/lodge-backdrop.webp",
+      "bytes": 166432,
+      "sha256": "3e8e90ae7485845b89f34b3e5ff880b220c001a29c4161a561a4a46f3601cc21"
+    },
+    {
+      "id": "khai_son_luc_si",
+      "path": "game/public/assets/companion-work/v1/portraits/khai_son_luc_si.webp",
+      "bytes": 96784,
+      "sha256": "a14f179a8d741db7c0d4e596c4ca17054bbb420c93f9c5413815c698e1c3c08e"
+    },
+    {
+      "id": "linh_hac",
+      "path": "game/public/assets/companion-work/v1/portraits/linh_hac.webp",
+      "bytes": 67120,
+      "sha256": "ac9856e492e516ca8289d73b1f02573a968d218e02b00faf208ee26ace052db1"
+    },
+    {
+      "id": "than_nong",
+      "path": "game/public/assets/companion-work/v1/portraits/than_nong.webp",
+      "bytes": 89434,
+      "sha256": "e3cebe0245836dfaa1f02797de63180f2654e088797e9e12bcd00f81612e94de"
+    },
+    {
+      "id": "van_du_kiem_khach",
+      "path": "game/public/assets/companion-work/v1/portraits/van_du_kiem_khach.webp",
+      "bytes": 90774,
+      "sha256": "886ff4e930431db90d7478113fb207cc8bd5aa55b8481647f3d25cd869ad423c"
+    },
+    {
+      "id": "cuu_thien_huyen_nu",
+      "path": "game/public/assets/companion-work/v1/portraits/cuu_thien_huyen_nu.webp",
+      "bytes": 83788,
+      "sha256": "51b4b45ccc5e6d2d86705066ed17bf1863ff655e6ccd3452127b5a1c375701a7"
+    },
+    {
+      "id": "khai_minh",
+      "path": "game/public/assets/companion-work/v1/portraits/khai_minh.webp",
+      "bytes": 89528,
+      "sha256": "4dea008adcac0f49a8cdaa82c8fa79098404db78d44fa0a6eaa18852ae8219f7"
+    },
+    {
+      "id": "ho_ly_tinh",
+      "path": "game/public/assets/companion-work/v1/portraits/ho_ly_tinh.webp",
+      "bytes": 86662,
+      "sha256": "15f683175e6449fd671467fdabf6f01d5714cfe2bc1f57d403256d8a68647b3f"
+    },
+    {
+      "id": "duoc_dong_tu",
+      "path": "game/public/assets/companion-work/v1/portraits/duoc_dong_tu.webp",
+      "bytes": 85506,
+      "sha256": "133f32b8d2255c277e011cc33696774592bbb104d93f8c7a714ab3e3e25e130c"
+    },
+    {
+      "id": "thuy_linh_xa",
+      "path": "game/public/assets/companion-work/v1/portraits/thuy_linh_xa.webp",
+      "bytes": 84484,
+      "sha256": "235e4954247d404df93cd9181cfdb0b8f3e8889cebb8ce289a4042f6c24e4d89"
+    },
+    {
+      "id": "thiet_y_tang",
+      "path": "game/public/assets/companion-work/v1/portraits/thiet_y_tang.webp",
+      "bytes": 80292,
+      "sha256": "d19ca74cf6f46a799ebaebad68ac3f90392390bd3c5724f31f89275053014d9f"
+    },
+    {
+      "id": "kim_quang_thanh_nhan",
+      "path": "game/public/assets/companion-work/v1/portraits/kim_quang_thanh_nhan.webp",
+      "bytes": 87812,
+      "sha256": "661b8d7e0af7dab840c3528f97051ec4e89d96d2fa97cf40aa982bb8160fd8d2"
+    },
+    {
+      "id": "huyen_vu",
+      "path": "game/public/assets/companion-work/v1/portraits/huyen_vu.webp",
+      "bytes": 96912,
+      "sha256": "2f988278c1ded4e8b839ecca9f5695540cb9a3545e0c27c0913f9289e4a785f1"
+    },
+    {
+      "id": "nguyen-thach",
+      "path": "game/public/assets/companion-work/v1/nguyen-thach.webp",
+      "bytes": 13820,
+      "sha256": "125fc4c03ce968f3ed8e4dc93010463d46f08a4459efbac351cf5d201e2447d4"
+    }
+  ]
+}

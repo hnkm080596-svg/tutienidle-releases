@@ -1,0 +1,1 @@
+import{Cr as e,It as t}from"./game-data-CEusI5e2.js";function n(t){return e.indexOf(t)+1}function r(e){return t.indexOf(e)+1}function i(i){return i?e.includes(i)?n(i)===e.length:t.includes(i)?r(i)===t.length:!1:!1}export{n,r,i as t};

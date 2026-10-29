@@ -1,0 +1,1 @@
+import{s as e}from"./vendor-CZ3TPC-V.js";import{g as t,h as n}from"./game-data-CEusI5e2.js";var r=e({legacy:!1,locale:`vi`,fallbackLocale:`en`,messages:{vi:t,en:n}});export{r as t};

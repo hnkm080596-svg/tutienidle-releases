@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "consumer": "src/components/panels/production/MineMiningBoard.vue",
+  "backdrop": { "path": "mine-backdrop-v1.png", "width": 1672, "height": 941, "blurCssPx": 2, "alpha": false },
+  "props": {
+    "path": "mine-props-v1.png", "width": 1536, "height": 1024,
+    "cellWidth": 512, "cellHeight": 512, "columns": 3, "rows": 2, "alpha": true,
+    "frames": { "soft": [0, 0], "hard": [1, 0], "scattered": [2, 0], "worker": [0, 1], "cart": [1, 1], "dust": [2, 1] },
+    "anchor": "cell-center",
+    "animation": "Decorative CSS motion of static props, not a generated character flipbook. Reduced motion disables playback."
+  },
+  "generator": "built-in imagegen",
+  "promptSummary": "One simple xianxia mine chamber without UI, plus a transparent 3x2 static prop atlas containing three ores, a mining automaton, a cart and dust."
+}

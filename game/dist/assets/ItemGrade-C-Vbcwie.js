@@ -1,0 +1,1 @@
+var e=[`hoang`,`huyen`,`dia`,`thien`,`tien`],t={hoang:`Hoàng Chất`,huyen:`Huyền Chất`,dia:`Địa Chất`,thien:`Thiên Chất`,tien:`Tiên Chất`},n={hoang:`Hoàng`,huyen:`Huyền`,dia:`Địa`,thien:`Thiên`,tien:`Tiên`};function r(e,t){return[{text:n[t]},{text:`- ${e}`}]}export{e as n,r,t};

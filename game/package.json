@@ -1,0 +1,8 @@
+﻿{
+  "name": "tien-hiep-idle-release",
+  "version": "0.0.0-beta.20",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('Pre-built static release v0.0.0-beta.20 ready')\""
+  }
+}
